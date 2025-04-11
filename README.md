@@ -3,7 +3,11 @@
 A Power BI dashboard project by **Gordon-Mensah**, exploring EU import-export trade flows by country, product, currency, and transportation method.
 
 
-![Import-Export Trade Analysis EU Goods Flow Overview](https://github.com/user-attachments/assets/daae317c-b91a-40db-8863-77871bd323e9)
+
+![Import-Export Trade Analysis EU Goods Flow Overview](https://github.com/user-attachments/assets/af9b9d6e-bb84-4387-b8d0-dfb42f196e12)
+
+
+
 
 ---
 
