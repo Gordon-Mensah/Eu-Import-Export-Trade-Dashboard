@@ -1,0 +1,7 @@
+mode_of_transport,delivery_terms,total_value_usd,gross_weight_kg,net_weight_kg,quantity,number_of_transactions
+Air,CFR,39249.76,5750.5,5222.5,6294,6
+Air,CIF,843.75,995,624,624,1
+Air,CPT,1220,17,2,210,2
+Road,CFR,1330,6456.2,6056.2,2760,3
+Sea,CFR,475896.24,216691.88,208086,190104,7
+Sea,CIF,11250,19125,17820,17820,1
